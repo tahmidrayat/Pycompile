@@ -20,6 +20,7 @@
 ```
 apt update && apt install git -y && git clone https://github.com/htr-tech/Pycompile && cd Pycompile && python2 compile.py
 ```
+## Script Credit : https://github.com/LOoLzeC
 
 #### [+]You will find The encrypted file on repo's home dir.
 
